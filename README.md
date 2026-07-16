@@ -6,7 +6,7 @@ Welcome to my corner of GitHub! I’m a first-year engineering student currently
 
 ## 👩‍💻 About Me
  
-* 🎓 **What I do:** First-year engineering student, building my foundations from the ground up.
+* 🎓 **What I do:** First-year engineering student, building my foundations from the ground up. 
 * 🏆 **Latest Milestone:** Just wrapped up learning **C**! (Yes, I actually survived pointers 🧠).
 * 🔍 **What's Next:** Now that I have the basics down, I'm looking to expand my horizon, explore new frameworks, and start building actual projects.
 * 🌱 **Current Vibe:** Staying curious, breaking code, and learning how to fix it. 
