@@ -1,8 +1,8 @@
-# Hi, I'm Aditi Jain! 👋
+# Hi, I'm Aditi Jain! 👋 
 
 Welcome to my corner of GitHub! I’m a first-year engineering student currently navigating my way through the world of tech and coding. 🚀   
 
----
+--- 
 
 ## 👩‍💻 About Me
  
@@ -18,7 +18,7 @@ Welcome to my corner of GitHub! I’m a first-year engineering student currently
 * **Languages:** C (Strong fundamentals in logic & core concepts)
 * **Exploring Next:** Looking into **C++** / **Java** for object-oriented programming, and diving into **Data Structures**.
 
----
+--- 
 
 ## 🎯 What I'm Working On
 
@@ -35,4 +35,5 @@ I’m always open to collaborating on beginner-friendly projects, discussing eng
 
 * **LinkedIn:** [linkedin.com/in/Aditi Jain](https://linkedin.com/in/Aditi Jain)
 * **Email:** [aj3238854@gmail.com](mailto:aj3238854@gmail.com)
-*
+* 
+ 
