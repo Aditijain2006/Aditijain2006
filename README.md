@@ -1,5 +1,5 @@
 # Hi, I'm Aditi Jain! 👋  
- 
+  
 Welcome to my corner of GitHub! I’m a first-year engineering student currently navigating my way through the world of tech and coding. 🚀   
 
 --- 
