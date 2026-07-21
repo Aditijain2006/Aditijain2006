@@ -1,39 +1,69 @@
-# Hi, I'm Aditi Jain! 👋                 
-       
-Welcome to my corner of GitHub! I’m a first-year engineering student currently navigating my way through the world of tech and coding. 🚀   
- 
----   
+<div align="center">
+
+  <!-- Aesthetic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0B1E,100:8A2355&height=200&section=header&text=ADITI%20JAIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20Student&descSize=18&descAlignY=70" width="100%" />
+
+  <br/>
+
+  <p>🚀 <b>Software Engineering Enthusiast</b> | 💻 <b>Problem Solver</b> | ⚡ <b>Building & Exploring Tech</b></p>
+
+  <!-- Skill Badges -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
- 
-* 🎓 **What I do:** First-year engineering student, building my foundations from the ground up.  
-* 🏆 **Latest Milestone:** Just wrapped up learning **C**! (Yes, I actually survived pointers 🧠).
-* 🔍 **What's Next:** Now that I have the basics down, I'm looking to expand my horizon, explore new frameworks, and start building actual projects.
-* 🌱 **Current Vibe:** Staying curious, breaking code, and learning how to fix it. 
+
+- 👤 **Name**: Aditi Jain
+- 🎓 **Focus**: Computer Science & Engineering
+- 📚 **Learning**: Data Structures & Algorithms, Software Development
+- 💡 **Motto**: *"Consistency and curiosity drive continuous growth."*
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack & Skills
 
-* **Languages:** C (Strong fundamentals in logic & core concepts)
-* **Exploring Next:** Looking into **C++** / **Java** for object-oriented programming, and diving into **Data Structures**.
-
---- 
-
-## 🎯 What I'm Working On
-
-- [x] Master the basics of programming (C Language)
-- [ ] Deep dive into Data Structures and Algorithms (DSA)
-- [ ] Build my first couple of mini-projects
-- [ ] Figure out git workflow beyond just committing to main 
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td><code>C</code>, <code>C++</code></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>Developer Tools</b></td>
+    <td><code>Git</code>, <code>GitHub</code>, <code>VS Code</code></td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect!
+## 📈 GitHub Metrics
 
-I’m always open to collaborating on beginner-friendly projects, discussing engineering life, or just chatting about tech. Feel free to reach out!
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Aditi-Jain?label=Followers&style=for-the-badge&color=D81B60&labelColor=2D0B1E" />
+  <img src="https://img.shields.io/github/stars/Aditi-Jain?label=Total%20Stars&style=for-the-badge&color=D81B60&labelColor=2D0B1E" />
+</div>
 
-* **LinkedIn:** [linkedin.com/in/Aditi Jain](https://linkedin.com/in/Aditi Jain)
-* **Email:** [aj3238854@gmail.com](mailto:aj3238854@gmail.com)
-* 
- 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Jain&theme=dracula&hide_border=true" width="80%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub>
+</div>
