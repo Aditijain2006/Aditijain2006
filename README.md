@@ -47,7 +47,7 @@
   </tr>
 </table>
 
----
+--- 
 
 ## 📈 GitHub Metrics
 
