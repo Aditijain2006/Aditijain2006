@@ -35,7 +35,7 @@
 ---
 
 ## 🛠️ Tech Stack & Skills
-
+ 
 <table>
   <tr>
     <td align="center" width="25%"><b>Languages</b></td>
