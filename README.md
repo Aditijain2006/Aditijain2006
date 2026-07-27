@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills 
  
 <table>
   <tr>
