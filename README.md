@@ -49,7 +49,7 @@
 
 --- 
 
-## 📈 GitHub Metrics
+## 📈 GitHub Metrics 
 
 <div align="center"> 
   <img src="https://img.shields.io/github/followers/Aditi-Jain?label=Followers&style=for-the-badge&color=D81B60&labelColor=2D0B1E" />
