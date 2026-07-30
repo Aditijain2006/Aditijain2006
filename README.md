@@ -33,7 +33,7 @@
 - 💡 **Motto**: *"Consistency and curiosity drive continuous growth."*
 
 --- 
-
+ 
 ## 🛠️ Tech Stack & Skills  
  
 <table> 
