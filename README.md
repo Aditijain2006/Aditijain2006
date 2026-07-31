@@ -28,7 +28,7 @@
 ## 👩‍💻 About Me   
 
 - 👤 **Name**: Aditi Jain
-- 🎓 **Focus**: Computer Science & Engineering
+- 🎓 **Focus**: Computer Science &  Engineering
 - 📚 **Learning**: Data Structures & Algorithms, Software Development
 - 💡 **Motto**: *"Consistency and curiosity drive continuous growth."*
 
