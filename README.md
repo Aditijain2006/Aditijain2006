@@ -1,4 +1,4 @@
-<div align="center">                   
+<div align="center">                    
  
   <!-- Aesthetic Header Banner --> 
   <img src="https://capsule-     render.vercel.app/api?type=rect&color=0:2D0B1E,100:8A2355&height=200&section=header&text=ADITI%20JAIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20Student&descSize=18&descAlignY=70" width="100%"/>
@@ -11,7 +11,7 @@
   <a href="#">   
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   </a> 
-  <a href="#">  
+  <a href="#">   
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </a> 
   <a href="#">    
