@@ -32,7 +32,7 @@
 - 📚 **Learning**: Data Structures & Algorithms, Software Development
 - 💡 **Motto**: *"Consistency and curiosity drive continuous growth."*
 
---- 
+---  
  
 ## 🛠️ Tech Stack & Skills  
  
