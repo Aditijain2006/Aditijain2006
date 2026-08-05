@@ -40,7 +40,7 @@
   <tr> 
     <td align="center" width="25%"><b>Languages</b></td>
     <td><code>C</code>, <code>C++</code></td>
-  </tr>
+  </tr> 
   <tr>
     <td align="center" width="25%"><b>Developer Tools</b></td>
     <td><code>Git</code>, <code>GitHub</code>, <code>VS Code</code></td>
