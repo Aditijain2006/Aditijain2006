@@ -25,7 +25,7 @@
   
 ---
 
-## 👩‍💻 About Me     
+## 👩‍💻 About Me      
 
 - 👤 **Name**: Aditi Jain
 - 🎓 **Focus**: Computer Science &   Engineering
