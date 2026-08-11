@@ -45,7 +45,7 @@
     <td align="center" width="25%"><b>Developer Tools</b></td>
     <td><code>Git</code>, <code>GitHub</code>, <code>VS Code</code></td>
   </tr>
-</table> 
+</table>  
 
 --- 
 
