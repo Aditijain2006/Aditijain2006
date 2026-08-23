@@ -2,7 +2,7 @@
    
   <!-- Aesthetic Header Banner -->   
   <img src="https://capsule-         render.vercel.app/api? type=rect&color=0:2D0B1E,100:8A2355&height=200&section=header&text=ADITI%20JAIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20Student&descSize=18&descAlignY=70" width="100%"/>      
-               
+                
   <br/>         
 
   <p>🚀 <b>Software Engineering   Enthusiast</b> | 💻 <b>Problem Solver</b> | ⚡ <b>Building & Exploring Tech</b></p>
