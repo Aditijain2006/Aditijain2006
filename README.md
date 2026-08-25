@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/github/stars/Aditi-Jain?label=Total%20Stars&style=for-the-badge&color=D81B60&labelColor=2D0B1E" />
 </div>
  
-<br/>
+<br/> 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Jain&theme=dracula&hide_border=true" width="80%" />
