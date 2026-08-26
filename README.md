@@ -54,7 +54,7 @@
   <img  src="https://img.shields.io/github/followers/Aditi-Jain?label=Followers&style=for-the-badge&color=D81B60&labelColor=2D0B1E" />
   <img src="https://img.shields.io/github/stars/Aditi-Jain?label=Total%20Stars&style=for-the-badge&color=D81B60&labelColor=2D0B1E" />
 </div>
- 
+  
 <br/> 
 
 <div align="center">
