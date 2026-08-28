@@ -7,7 +7,7 @@
 
   <p>🚀 <b>Software Engineering   Enthusiast</b> | 💻 <b>Problem Solver</b> | ⚡ <b>Building & Exploring Tech</b></p>
  
-  <!-- Skill Badges -->            
+  <!-- Skill Badges -->             
   <a href="#">           
     <img     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
   </a>     
