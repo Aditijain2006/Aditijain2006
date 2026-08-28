@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack & Skills   
  
 <table>  
-  <tr> 
+  <tr>  
     <td align="center" width="25%"><b>Languages</b></td>
     <td><code>C</code>, <code>C++</code></td>
   </tr>  
