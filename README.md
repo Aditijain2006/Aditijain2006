@@ -45,7 +45,6 @@
     <td><code>Git</code>, <code>GitHub</code>, <code>VS Code</code></td>
   </tr>
 </table>   
-
 --- 
 
 ## 📈 GitHub Metrics     
